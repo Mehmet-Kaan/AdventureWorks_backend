@@ -1,0 +1,498 @@
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/appsettings.json
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/AdventureWorks_backend
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/AdventureWorks_backend.deps.json
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/AdventureWorks_backend.runtimeconfig.json
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/AdventureWorks_backend.pdb
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.csproj.AssemblyReference.cache
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.AssemblyInfoInputs.cache
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.AssemblyInfo.cs
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.csproj.CoreCompileInputs.cache
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/staticwebassets/msbuild.AdventureWorks_backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/staticwebassets/msbuild.build.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/scopedcss/bundle/AdventureWorks_backend.styles.css
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.csproj.CopyComplete
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/refint/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.pdb
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/AdventureWorks_backend.genruntimeconfig.cache
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/obj/Debug/net7.0/ref/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/AutoMapper.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Azure.Core.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Azure.Identity.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Humanizer.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mehmetkaantaspunar/Desktop/AdventureWorks_backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/appsettings.Development.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/appsettings.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/AdventureWorks_backend
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/AdventureWorks_backend.deps.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/AdventureWorks_backend.runtimeconfig.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/AdventureWorks_backend.pdb
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/AutoMapper.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Azure.Core.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Azure.Identity.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Humanizer.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.csproj.AssemblyReference.cache
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.AssemblyInfoInputs.cache
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.AssemblyInfo.cs
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.csproj.CoreCompileInputs.cache
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/staticwebassets/msbuild.AdventureWorks_backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/staticwebassets/msbuild.build.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/scopedcss/bundle/AdventureWorks_backend.styles.css
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.csproj.CopyComplete
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/refint/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.pdb
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/AdventureWorks_backend.genruntimeconfig.cache
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/obj/Debug/net7.0/ref/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sql file/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/appsettings.Development.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/appsettings.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.deps.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.runtimeconfig.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.pdb
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/AutoMapper.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Azure.Core.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Azure.Identity.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Humanizer.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.csproj.AssemblyReference.cache
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.AssemblyInfoInputs.cache
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.AssemblyInfo.cs
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.csproj.CoreCompileInputs.cache
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.AdventureWorks_backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.build.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/scopedcss/bundle/AdventureWorks_backend.styles.css
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.csproj.CopyComplete
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/refint/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.pdb
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.genruntimeconfig.cache
+/Users/mehmetkaantaspunar/Desktop/AW with local sqlite file/obj/Debug/net7.0/ref/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/appsettings.Development.json
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/appsettings.json
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.deps.json
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.runtimeconfig.json
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.pdb
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/AutoMapper.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Azure.Core.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Azure.Identity.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Humanizer.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.csproj.AssemblyReference.cache
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.AssemblyInfoInputs.cache
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.AssemblyInfo.cs
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.csproj.CoreCompileInputs.cache
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.AdventureWorks_backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.build.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/scopedcss/bundle/AdventureWorks_backend.styles.css
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.csproj.CopyComplete
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/refint/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.pdb
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.genruntimeconfig.cache
+/Users/mehmetkaantaspunar/Desktop/Mehmet Kaan Taspunar_ Fullstack Assignment/Backend/AW with local sqlite file/obj/Debug/net7.0/ref/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/appsettings.Development.json
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/appsettings.json
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.deps.json
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.runtimeconfig.json
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/AdventureWorks_backend.pdb
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/AutoMapper.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Azure.Core.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Azure.Identity.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Humanizer.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.csproj.AssemblyReference.cache
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.AssemblyInfoInputs.cache
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.AssemblyInfo.cs
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.csproj.CoreCompileInputs.cache
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.AdventureWorks_backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.build.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.AdventureWorks_backend.props
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/scopedcss/bundle/AdventureWorks_backend.styles.css
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.csproj.CopyComplete
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/refint/AdventureWorks_backend.dll
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.pdb
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/AdventureWorks_backend.genruntimeconfig.cache
+/Users/mehmetkaantaspunar/Assignments/ChampAI - Assignment/AW - Backend/AW with local sqlite file/obj/Debug/net7.0/ref/AdventureWorks_backend.dll
